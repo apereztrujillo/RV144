@@ -75,7 +75,11 @@ $H_^a:$ There is a relationship between getting aids and having the Aids Vaccine
 ```{r}
 chisqtestGC(results, graph = TRUE)
 ```
-  
+      
+We now test the independence of aides vaccine and placebo groups 
+
+$H_0:$ The placebo and aides vaccines treatmentis independent of contracting the disease Aids  
+$H_a:$ having the vaccine is related to contracting the disease  
   The p-value of .04 means the probabilitiy of getting a result like that just obtained if the null hypothesis is trueis approximately 4 percent.  This is normally consider significant .  
 
 ## Conclusions
