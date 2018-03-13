@@ -92,7 +92,8 @@ $H_0:$ The odds ratio between having aides and getting the vaccine contains the 
 myfish <-fisher.test(results)
 myfish 
 ```
-The pvalue from the fisher test is `r myfish$p.value` and the confidence interval is `r myfish$p.int`
+The pvalue from the fisher test is `r myfish$p.value` and the confidence interval is `r myfish$p.int`  
+
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
