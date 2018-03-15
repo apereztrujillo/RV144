@@ -75,4 +75,4 @@ chisqtestGC(results, graph = TRUE)
 
 ## Conclusions
 
-<Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+In conlusion like displayed on the bar chart, people who did not get the vaccine or the placebo all got aids. In the group of people that got the vaccine only 40% got aids. The people who got the placebo 60% got aids. That demonstrates that the vaccine does help and makes a positve difference. 
